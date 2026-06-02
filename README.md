@@ -48,27 +48,26 @@ Retriever + Gemini 2.5 Flash
       SCM Assistant
 ```
 # Screenshots
-
 ## Document Store
-![Document Store](screenshots/DocumentStore.png)
+![Document Store](Screenshots/Document%20Store%20.png)
 
 ## Document Store Configuration 1
-![Document Store Config1](screenshots/Document%20Store%20Config1.png)
+![Document Store Config1](Screenshots/Document%20Store%20Config1.png)
 
 ## Document Store Configuration 2
-![Document Store Config2](screenshots/Document%20Store%20Config2.png)
+![Document Store Config2](Screenshots/Document%20Store%20Config2.png)
 
 ## Chunk Configuration 1
-![Chunk Config 1](screenshots/Chunk%20Config%201.png)
+![Chunk Config 1](Screenshots/Chunk%20Config%201.png)
 
 ## Chunk Configuration 2
-![Chunk Config 2](screenshots/Chunk%20Config%202.png)
+![Chunk Config 2](Screenshots/Chunk%20Config%202.png)
 
 ## Chatflow
-![Chatflow](screenshots/Chatflows.png)
+![Chatflow](Screenshots/Chatflows.png)
 
 ## Chatflow Configuration
-![Chatflow Config 1](screenshots/Chatflow%20Config%201.png)
+![Chatflow Config 1](Screenshots/Chatflow%20Config%201.png)
 ---
 
 # Chunking Experiments

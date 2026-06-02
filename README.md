@@ -50,22 +50,25 @@ Retriever + Gemini 2.5 Flash
 # Screenshots
 
 ## Document Store
-![Document Store](screenshots/document_store.png)
+![Document Store](screenshots/Document%20Store%20.png)
+
+## Document Store Configuration 1
+![Document Store Config1](screenshots/Document%20Store%20Config1.png)
+
+## Document Store Configuration 2
+![Document Store Config2](screenshots/Document%20Store%20Config2.png)
 
 ## Chunk Configuration 1
-![Chunk Config 1](screenshots/chunk_config_1.png)
+![Chunk Config 1](screenshots/Chunk%20Config%201.png)
 
 ## Chunk Configuration 2
-![Chunk Config 2](screenshots/chunk_config_2.png)
+![Chunk Config 2](screenshots/Chunk%20Config%202.png)
 
 ## Chatflow
-![Chatflow](screenshots/chatflow.png)
+![Chatflow](screenshots/Chatflows.png)
 
-## Chatbot Testing
-![Chatbot Testing](screenshots/chatbot_test.png)
-
-## Public Chatbot URL
-![Public URL](screenshots/public_url.png)
+## Chatflow Configuration
+![Chatflow Config 1](screenshots/Chatflow%20Config%201.png)
 ---
 
 # Chunking Experiments

@@ -193,11 +193,11 @@ Retriever + Gemini 2.5 Flash
 
 ### Retrieved
 
-* No suppliers identified from retrieved context
+* Chatbot correctly explained policy restriction but failed to identify qualifying suppliers.
 
 ### Status
 
-❌ Not Matched
+❌ partially Matched
 
 ---
 

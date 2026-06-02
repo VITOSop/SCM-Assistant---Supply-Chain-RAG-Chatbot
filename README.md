@@ -50,7 +50,7 @@ Retriever + Gemini 2.5 Flash
 # Screenshots
 
 ## Document Store
-![Document Store](screenshots/Document%20Store%20.png)
+![Document Store](screenshots/DocumentStore.png)
 
 ## Document Store Configuration 1
 ![Document Store Config1](screenshots/Document%20Store%20Config1.png)
